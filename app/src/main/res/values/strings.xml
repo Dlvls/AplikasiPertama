@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">AplikasiPertama</string>
+    <string name="android_name">Android Gingerbread</string>
+    <string name="android_name">Android Honeycomb</string>
+    <string name="android_name">Android Ice Cream Sandwich</string>
+    <string name="android_name">Android KitKat</string>
+    <string name="android_name">Android Marshmallow</string>
+    <string name="android_name">Android Nougat</string>
+    <string name="android_name">Android O</string>
+    <string name="android_name">Android P</string>
+    <string name="android_name">Android Q</string>
+    <string name="android_nougat">Android Nougat</string>
+    <string name="android_kitkat">Android KitKat</string>
 </resources>

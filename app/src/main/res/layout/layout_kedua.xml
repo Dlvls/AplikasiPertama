@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingHorizontal="4dp">
+
+    <ImageView
+        android:id="@+id/iv_1"
+        android:scaleType="fitCenter"
+        android:src="@drawable/nougat"
+        style="@style/image"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/android_nougat"
+        style="@style/title"/>
+
+</LinearLayout>
